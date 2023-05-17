@@ -2,7 +2,7 @@
 
 There are two phases in the project: Training, using the trained models in the application.
 
-Input dataset: AffectNet 
+Input dataset: AffectNet,
 Link: http://mohammadmahoor.com/affectnet/
 
 I have trained the model with input data set first for 200000 iterations and saved the models.
